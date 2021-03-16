@@ -7,7 +7,7 @@ public class GitTest {
         System.out.println("Erkan");
         System.out.println("test1");
 
-
+System.out.println("100");
     }
 
 
