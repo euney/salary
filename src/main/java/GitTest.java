@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("100_000.00$");
         System.out.println("10");
         System.out.println("Erkan");
+        System.out.println("test1");
 
 
     }
